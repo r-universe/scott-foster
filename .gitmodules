@@ -8,8 +8,3 @@
 	url = https://github.com/cran/fishMod
 	shallow = true
 	registered = true
-[submodule "RCPmod"]
-	path = RCPmod
-	url = https://github.com/cran/RCPmod
-	shallow = true
-	registered = true
