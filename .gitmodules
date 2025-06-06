@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MBHdesign"]
+	path = MBHdesign
+	url = https://github.com/scott-foster/mbhdesign
 [submodule "fishMod"]
 	path = fishMod
 	url = https://github.com/cran/fishMod
+[submodule "stockR"]
+	path = stockR
+	url = https://github.com/scott-foster/stockr
